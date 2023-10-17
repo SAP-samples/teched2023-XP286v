@@ -1,14 +1,14 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-XP286v)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-XP286v)
 
-# Session ID - Session Title
+# XP286v - SAP Business Technology Platform Solution Diagrams
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called XP286v - SAP Business Technology Platform Solution Diagrams.  
 
 ## Overview
 
-This session introduces attendees to...
+Solution diagrams allow you to visualize best practices and architectures of solutions running on SAP Business Technology Platform (SAP BTP). In turn, this allows you to realize your SAP BTP solutions more easily. Learn how to use the icons, apply the design guidelines, and create your own solution diagrams in the best way.
 
 ## Requirements
 
