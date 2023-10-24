@@ -14,6 +14,14 @@ Solution diagrams allow you to visualize best practices and architectures of sol
 
 For the following session all you need is access to draw.io (we will be usind the Web client) and the information and files in this repository. Please note: The files provided for this exercise are meant for use as part of the exercises only. They aim to give you a good understanding of the iconography for the SAP Business Technology Platform that we are working on right now.
 
+## Solution Diagrams for the Business Technology Platform at SAP
+
+For the following session all you need is access to draw.io (we will be usind the Web client) and the information and files in this repository. Please note: The files provided for this exercise are meant for use as part of the exercises only. They aim to give you a good understanding of the iconography for the SAP Business Technology Platform that we are working on right now.
+
+## Exercise Process Flow
+
+For the following session all you need is access to draw.io (we will be usind the Web client) and the information and files in this repository. Please note: The files provided for this exercise are meant for use as part of the exercises only. They aim to give you a good understanding of the iconography for the SAP Business Technology Platform that we are working on right now.
+
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
