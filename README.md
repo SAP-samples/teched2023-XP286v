@@ -22,6 +22,7 @@ For the following session all you need is access to draw.io (we will be usind th
 ## Exercise Process Flow
 
 For the following session all you need is access to draw.io (we will be usind the Web client) and the information and files in this repository. Please note: The files provided for this exercise are meant for use as part of the exercises only. They aim to give you a good understanding of the iconography for the SAP Business Technology Platform that we are working on right now.
+<br>![](/images/Main_02.png)
 
 ## Exercises
 
