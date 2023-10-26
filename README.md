@@ -30,9 +30,7 @@ To do so we will follow the following flow which is recommended to be used in ge
 ## Exercises
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - Building your Solution Diagram](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#Exercise-1.1---Creating-Basic-Layers-and-Shapes)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+- [Exercise - Building your Solution Diagram](exercises/ex1/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
