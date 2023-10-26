@@ -1,13 +1,21 @@
-# Level 1 Heading
+# Getting Started
 
-In this exercise, you will...
+In this exercise we will build a solution diagram based on a real example. For our exercise the focus is on how to build the solution diagram. If you are interested in the details about what is shown in detail we recommend the session XP262.
 
-## Level 2 Heading
+In the end the solution diagram we are building in this exercise should look similar to this:
+<br>![](/exercises/ex0/images/Ex00_01.png)
 
-After completing these steps you will have....
+To allow you to build the solution diagrams more easily we have prepared for you several libraries that should be importet into draw.io before started the exercises.
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+Furthermore we recommend at least skimming the guidelines to get a better understanding on how to build compliant and consistent solution diagrams.
+
+## Preparing draw.io
+
+1.	Open draw.io - for this exercise we will use the Web client (http://draw.io).
+<br>![](/exercises/ex0/images/Ex00_03.png)
+
+2.	Import SAP_Service_Icons_TechEd2023.drawio
+<br>![](/exercises/ex0/images/Ex00_03.png)
 
 2.	Insert this code.
 ``` abap
