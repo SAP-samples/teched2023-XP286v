@@ -4,7 +4,6 @@ In this exercise we will build a solution diagram based on a real example. For o
 
 In the end the solution diagram we are building in this exercise should look similar to this:
 <br>![](/exercises/ex0/images/Ex00_01.png)
-<br>
 To allow you to build the solution diagrams more easily we have prepared for you several libraries that should be importet into draw.io before started the exercises.
 Furthermore we recommend at least skimming the guidelines to get a better understanding on how to build compliant and consistent solution diagrams.
 
