@@ -21,7 +21,8 @@ If you haven't chosen a default storage yet you might encounter the following wi
 Feel free to choose whatever storage works best for you
 5.Import the "Sneak Preview" libraries for SAP TechEd 2023.
 To do so you first need to download the libraries provided here:
-<br>![](/exercises/ex0/libraries/SAP_Arrows_TechEd2023.drawio)
+<br>![SAP_Arrows_TechEd2023](/exercises/ex0/libraries/SAP_Arrows_TechEd2023.drawio)
+
 
 2.	Insert this code.
 ``` abap
