@@ -1,0 +1,134 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1;arcSize=5;fillColor=#FFFFFF;perimeterSpacing=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"167\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 167,
+    "h": 160,
+    "aspect": "fixed",
+    "title": "default_L0_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1;arcSize=5;fillColor=#EBF8FF;perimeterSpacing=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"167\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 167,
+    "h": 160,
+    "aspect": "fixed",
+    "title": "default_L0_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#0040B0;strokeWidth=1;arcSize=5;fillColor=#EBF8FF;perimeterSpacing=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"167\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 167,
+    "h": 160,
+    "aspect": "fixed",
+    "title": "default_L1_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#0040B0;strokeWidth=1;arcSize=5;fillColor=#FFFFFF;perimeterSpacing=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"167\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 167,
+    "h": 160,
+    "aspect": "fixed",
+    "title": "default_L1_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#002A86;strokeWidth=1;arcSize=5;fillColor=#EBF8FF;perimeterSpacing=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"167\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 167,
+    "h": 160,
+    "aspect": "fixed",
+    "title": "default_L2_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#002A86;strokeWidth=1;arcSize=5;fillColor=#FFFFFF;perimeterSpacing=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"167\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 167,
+    "h": 160,
+    "aspect": "fixed",
+    "title": "default_L2_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;fillColor=#F5FAE5;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "success_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;fillColor=#FFFFFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "success_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#C35500;fillColor=#FFF8D6;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "warning_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#C35500;fillColor=#FFFFFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "warning_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#D20A0A;fillColor=#FFEAF4;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "critical_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#D20A0A;fillColor=#FFFFFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "critical_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#07838F;fillColor=#DAFDF5;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "accent1_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#07838F;fillColor=#FFFFFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "accent1_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#5D36FF;fillColor=#F1ECFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "accent2_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#5D36FF;fillColor=#FFFFFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "sccent2_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC00DC;fillColor=#FFF0FA;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "acccent3_filled"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC00DC;fillColor=#FFFFFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "accent3_empty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#FFFFFF;arcSize=32;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-4.547473508864641e-13\" width=\"260\" height=\"180\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#0040B0;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"9.999999999999545\" y=\"50\" width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#002A86;fillColor=#FFFFFF;arcSize=16;absoluteArcSize=1;imageWidth=64;imageHeight=64;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"19.999999999999545\" y=\"80\" width=\"80\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 180,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
