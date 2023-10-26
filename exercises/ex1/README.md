@@ -1,4 +1,4 @@
-![image](https://github.com/SAP-samples/teched2023-XP286v/assets/28632972/af5d89d3-355f-4387-ab8d-8e4c982f3ca9)# Exercise 1 - Building a Solution Diagram
+# Exercise 1 - Building a Solution Diagram
 
 As mentioned before we will build a solution diagram build on a real example as shown in XP262. For this exercise however we will focus on how to use the iconography and guidelines in the correct way to create a compliant and consistent solution diagram.  
 After preparing draw.io it should now be simple for us to build a solution diagram that adheres to the guidlines and uses the latest service icons. Please note that the generic icons for this exercise are not using the new design yet.
