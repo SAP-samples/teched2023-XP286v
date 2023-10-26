@@ -27,5 +27,6 @@ If you haven't used draw.io before the screen might look like this:
 
 ## Summary
 
-In this first preparatory step we imported all the relevant libraries into draw.io and we can now easily build solution diagrams for SAP BTP. Again the libraries as provided here are meant to be used during the exercises only.
+In this first preparatory step we imported all the relevant libraries into draw.io and we can now easily build solution diagrams for SAP BTP. Again the libraries as provided here are meant to be used during the exercises only.  
+
 Continue to - [Exercise 1 - Building a Solution Diagram](../ex1/README.md)
