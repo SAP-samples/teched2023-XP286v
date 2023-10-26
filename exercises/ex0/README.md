@@ -4,9 +4,8 @@ In this exercise we will build a solution diagram based on a real example. For o
 
 In the end the solution diagram we are building in this exercise should look similar to this:
 <br>![](/exercises/ex0/images/Ex00_01.png)
-
+<br>
 To allow you to build the solution diagrams more easily we have prepared for you several libraries that should be importet into draw.io before started the exercises.
-
 Furthermore we recommend at least skimming the guidelines to get a better understanding on how to build compliant and consistent solution diagrams.
 
 ## Preparing draw.io
@@ -14,19 +13,20 @@ Furthermore we recommend at least skimming the guidelines to get a better unders
 1.	Open draw.io - for this exercise we will use the Web client (http://draw.io).
 If you haven't used draw.io before the screen might look like this:
 <br>![](/exercises/ex0/images/Ex00_02.png)
-
+<br>
 Click on "Create New Diagram". A new window should open:
 <br>![](/exercises/ex0/images/Ex00_03.png)
-
+<br>
 Choose "Blank Diagram" from the offered list and give your diagram a name that works for you (in our case "TechEd2023_TaskCenter_Example.drawio). Click on "Create".
-
+<br>
 Note: Depending on the storage you are using different windows might open. We chose to store our diagrams on our local device. In this case a file dialog opens in which we have to decide where we want to store our diagram and what the local filename should be.
 If you haven't chosen a default storage yet you might encounter the following window during the process:
 <br>![](/exercises/ex0/images/Ex00_04.png)
+<br>
 Feel free to choose whatever storage works best for you
 
-
-3.	Import SAP_Service_Icons_TechEd2023.drawio
+2.	Import the "Sneak Preview" libraries for SAP TechEd 2023.
+To do so you first need to download the libraries provided here:
 <br>![](/exercises/ex0/images/Ex00_03.png)
 
 2.	Insert this code.
