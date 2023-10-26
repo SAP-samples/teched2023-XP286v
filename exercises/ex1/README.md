@@ -15,6 +15,7 @@ As a reminder and a template for the exercise, this is the solution diagram we a
 <br>![](/exercises/ex1/images/Ex01_01.png)
 
 ## Exercise 1.1 - Creating Basic Layers and Shapes
+[create an anchor](#exercise-11-sub-exercise-1-description)
 
 1. The first step of the process is always to decide how many layers are needed. As you can see from the template above we need two layers. According to the guidlines "When nesting different areas inside each other alternate between using a fill and not using a fill to provide sufficient contrast between the areas". This said we start by picking a basic shape from the left pane. More specifically "default_L0_filled".
 2. As the "innermost area should have no fill as usually this part contains the most icons and text" we now add another basic shape "default_L1_empty".
