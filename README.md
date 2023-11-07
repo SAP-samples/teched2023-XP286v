@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called XP286v - SAP Business Technology Platform Solution Diagrams.  
+This repository contains the material for the SAP TechEd 2023 session called XP286v - SAP Business Technology Platform Solution Diagrams.  
 
 ## Overview
 
