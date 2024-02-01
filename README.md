@@ -2,6 +2,8 @@
 
 # XP286v - SAP Business Technology Platform Solution Diagrams
 
+# Please note: We will provide an update for the topic arround "BTP Solution Diagrams" containing icons & shapes soon !
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2023 session called XP286v - SAP Business Technology Platform Solution Diagrams.  
