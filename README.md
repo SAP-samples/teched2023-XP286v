@@ -2,7 +2,8 @@
 
 # XP286v - SAP Business Technology Platform Solution Diagrams
 
-# Please note: We will provide an update for the topic arround "BTP Solution Diagrams" containing icons & shapes soon !
+# We’re delighted to share the new BTP Solution Diagram repository and BTP Solution Diagram guideline  which is available now. ![image](https://github.com/SAP-samples/teched2023-XP286v/assets/91141653/5635cb89-f69a-4720-bc59-54901989b3b3)
+
 
 ## Description
 
